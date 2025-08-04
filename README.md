@@ -1,2 +1,8 @@
 # SHIELD-Smart-Healthcare-Intrusion-Detection-Using-SafeML-for-IoMT-Security
 This is the repository for the SafeML based healthcare intrusion detection.
+
+The rapid adoption of the Internet of Medical Things (IoMT) has revolutionized healthcare through remote monitoring and advanced diagnostics. However, interconnected medical devices remain vulnerable to cyberattacks, posing life-threatening risks and compromising sensitive patient data. Traditional security solutions, reliant on cryptographic methods and blacklisting, struggle to address the dynamic threats and resource constraints of IoMT environments. This paper proposes SHIELD, a SafeML based Intrusion Detection System (IDS) for the healthcare ecosystems. SafeML integrates Adaptive Gradient Relevance Modeling (AGRM) for optimized feature selection, enhancing detection accuracy while reducing computational overhead. By leveraging real-time pattern learning, SafeML dynamically adapts to evolving threats, achieving 98\% accuracy on healthcare intrusion datasets with minimal false positives. Extensive evaluations demonstrate its superiority over conventional models (e.g., RF, SVM, MLP) in precision (99.90\% for multi-class), recall (93.57\% for multi-class), and ROC-AUC (99.70\% for multi-class), alongside efficient training times (1.81–2.32 seconds for multi-class). The framework’s scalability and automation reduce reliance on manual intervention, offering a robust defense against cyberattacks in resource-constrained medical environments. This work bridges the gap between ML innovation and healthcare cybersecurity, providing a critical safeguard for the IoMT era.
+
+
+<img width="817" height="794" alt="fig1" src="https://github.com/user-attachments/assets/780824c9-d9ec-412a-96dc-c43e40c4c5da" />
+
