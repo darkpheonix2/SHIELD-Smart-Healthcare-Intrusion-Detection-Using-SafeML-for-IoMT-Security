@@ -5,5 +5,5 @@ The rapid adoption of the Internet of Medical Things (IoMT) has revolutionized h
 
 
 <img width="817" height="794" alt="fig1" src="https://github.com/user-attachments/assets/780824c9-d9ec-412a-96dc-c43e40c4c5da" />
-<img width="817" height="794" alt="fig2" src="[https://github.com/user-attachments/assets/780824c9-d9ec-412a-96dc-c43e40c4c5da](https://github.com/darkpheonix2/SHIELD-Smart-Healthcare-Intrusion-Detection-Using-SafeML-for-IoMT-Security/blob/d031d624b86d357c2d827b704a3530e8ed8cd4ca/SHIELD.jpg)" />
+<img width="817" height="794" alt="fig2" src="https://github.com/darkpheonix2/SHIELD-Smart-Healthcare-Intrusion-Detection-Using-SafeML-for-IoMT-Security/blob/d031d624b86d357c2d827b704a3530e8ed8cd4ca/SHIELD.jpg" />
 
